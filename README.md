@@ -1,12 +1,6 @@
 # Flutter Barbershop UI
 
-Flutter barbershop is an app that users can use to place hair treatment orders.This barbershop application was created to study the process of slicing UI from images into applications developed with Flutter. There is a reference design that I use for the slicing process.
-
-## Key Features
-1. Choosing the date and time of hair treatment.
-2. Selecting the type of hair treatment.
-3. Choosing a barber for treatment.
-4. Making a booking via WhatsApp
+This barbershop application was created to study the process of slicing UI from images into applications developed with Flutter. There is a reference design that I use for the slicing process.
 
 ## Installation
 
@@ -41,4 +35,4 @@ If you have any questions or would like to get in touch with me, you can send an
 ## Acknowledgments
 Thank you for using the Flutter Barbershop UI!
 
-Enjoy using your application, and we hope it's beneficial!
+Enjoy using my Flutter UI, and we hope it's beneficial!
