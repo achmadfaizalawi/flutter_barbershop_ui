@@ -19,9 +19,7 @@ This barbershop application was created to study the process of slicing UI from 
 
 In the application development process, the results of application development are saved outside the main branch. The following are the available branches:
 - **main**: The first branch in application development.
-- **development/v1**: 
-  1. Page development, (home page). 
-  2. Features development, (choose the day, time, type of hair treatment, barber, and book via WhatsApp).
+- **development/v1**: Development of home page.
 
 ## Contributions
 We greatly appreciate contributions from the community. If you would like to contribute to this project, please open a new issue or submit a pull request.
