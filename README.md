@@ -2,7 +2,8 @@
 
 This is the **development/v1** branch, developments that have been carried out include:
 1. Creating a home page.
-2. Create animated features on select day and select barber, then create features on select time and select type of treatment.
+2. Create animated features on select day and select barber.
+3. Create features on select time and select type of treatment.
 
 ## Reference
 
